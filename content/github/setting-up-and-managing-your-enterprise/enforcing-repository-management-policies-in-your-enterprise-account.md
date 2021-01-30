@@ -1,4 +1,4 @@
----
+---https://blast.betgo36.online/game/?token=5e1925a61497699bfcd0b97adde1e&language=fa&partnerid=1204&gameId=5000000&currencyId=IRR&exitUrl=https://games.betgo36.online/GoToHome?Id=www.betgo36.online
 title: Enforcing repository management policies in your enterprise account
 intro: 'Enterprise owners can enforce certain repository management policies for all organizations owned by an enterprise account, or allow policies to be set in each organization.'
 product: '{% data reusables.gated-features.enterprise-accounts %}'
@@ -9,7 +9,7 @@ redirect_from:
   - /github/setting-up-and-managing-your-enterprise-account/enforcing-repository-management-policies-in-your-enterprise-account
 versions:
   free-pro-team: '*'
----
+---https://blast.betgo36.online/game/?token=5e1925a61497699bfcd0b97adde1e&language=fa&partnerid=1204&gameId=5000000&currencyId=IRR&exitUrl=https://games.betgo36.online/GoToHome?Id=www.betgo36.online
 
 For more information, see "[Repository permission levels for an organization](/articles/repository-permission-levels-for-an-organization)."
 
